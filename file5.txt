@@ -1,1 +1,2 @@
 ini adlah file 5
+ini adlah perubahan dri file 5 di fitur c(squash)
