@@ -1,2 +1,3 @@
 file 3
 menamabahkan file 3 di fitur b commit ke dua
+ini fitur di file 3
