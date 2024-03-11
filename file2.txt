@@ -1,2 +1,3 @@
 file 2
 menamabahkan file 2 di fitur b commit ke satu
+nambah fitu baru
